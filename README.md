@@ -31,6 +31,7 @@ Di seguito la tabella di valutazione riferita al mio progetto:
 |     28      | :white_check_mark: |
 |     30      | :white_check_mark: |
 |     30L     |        :x:         |
+
 Questi risultati possono variare a seconda della potenza di calcolo della macchina.
 
 La specifica completa del progetto è disponibile [qui](https://github.com/AuroraTes/Progetto-Algoritmi-e-Principi-dell-Informatica/blob/main/Documents/Specifiche%20Prova.pdf).
