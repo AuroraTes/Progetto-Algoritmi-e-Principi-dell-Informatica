@@ -1,6 +1,6 @@
 # Prova Finale di Algoritmi e Principi dell'Informatica - A.A. 2020-2021
 
-[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](x)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://github.com/AuroraTes/Progetto-Algoritmi-e-Principi-dell-Informatica/blob/main/LICENSE)
 
 Prova finale di algoritmi e principi dell'informatica per l'anno accademico 2020-2021.
 
@@ -23,17 +23,18 @@ Di seguito la tabella di valutazione riferita al mio progetto:
 
 | Valutazione |       Esito        |
 |-------------|:------------------:|
-| 18          | :white_check_mark: |
-| 20          | :white_check_mark: |
-| 22          | :white_check_mark: |
-| 24          | :white_check_mark: |
-| 26          | :white_check_mark: |
-| 28          | :white_check_mark: |
-| 30          | :white_check_mark: |
-| 30L         |        :x:         |
+|     18      | :white_check_mark: |
+|     20      | :white_check_mark: |
+|     22      | :white_check_mark: |
+|     24      | :white_check_mark: |
+|     26      | :white_check_mark: |
+|     28      | :white_check_mark: |
+|     30      | :white_check_mark: |
+|     30L     |        :x:         |
 Questi risultati possono variare a seconda della potenza di calcolo della macchina.
 
-La specifica completa del progetto è disponibile [qui](x).
+La specifica completa del progetto è disponibile [qui](https://github.com/AuroraTes/Progetto-Algoritmi-e-Principi-dell-Informatica/blob/main/Documents/Specifiche%20Prova.pdf).
+Il codice sorgente è disponibile [qui](https://github.com/AuroraTes/Progetto-Algoritmi-e-Principi-dell-Informatica/blob/main/SourceCode.c).
 
 ## Scelte progettuali
 
@@ -73,5 +74,5 @@ Questo codice implementa un sistema per la gestione di grafi e per il calcolo de
 
 ## Copyright e licenza
 
-Il progetto è distribuito sotto [licenza GPL v2](x), si applicano le limitazioni descritte in tale licenza.
+Il progetto è distribuito sotto [licenza GPL v2](https://github.com/AuroraTes/Progetto-Algoritmi-e-Principi-dell-Informatica/blob/main/LICENSE), si applicano le limitazioni descritte in tale licenza.
 
